@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  packageName: "dev.hai-vr.fictitious-vcc-only-prerelease"
+  packageName: "dev.hai-vr.fictitious-vcc-prerelease-released"
 
 permissions:
   contents: write
