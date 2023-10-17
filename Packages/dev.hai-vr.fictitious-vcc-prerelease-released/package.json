@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.fictitious-vcc-prerelease-released",
   "displayName": "Haï~ - Ficitious VCC Prerelease Released",
-  "version": "0.0.1-alpha",
+  "version": "0.0.1",
   "unity": "2019.4",
   "description": "This package has a prerelease, then released with the same version number.",
   "vrchatVersion" : "2022.1.1",
