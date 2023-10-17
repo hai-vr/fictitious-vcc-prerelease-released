@@ -1,0 +1,12 @@
+{
+  "name": "fictitious-vcc-prerelease-dependency",
+  "displayName": "Haï~ - Ficitious VCC Prerelease Dependency",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "This package has a release, followed by a prerelease. This package exists to test that VCC should not suggest updating to the prerelease.",
+  "vrchatVersion" : "2022.1.1",
+  "author" : {
+    "name" : "Haï~"
+  },
+  "url" : "https://docs.hai-vr.dev/docs/products"
+}
